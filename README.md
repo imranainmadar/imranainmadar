@@ -4,9 +4,10 @@
                                 
 
 - 👀 I’m interested in exploring the technical world!!...
+- pursuing the higher education............
 - 🌱 I’m currently mastering the DSA
 - 📫 How to reach me imranakhan1811@gmail.com
-- 😄 Can work with :Python,java 
+- 😄 Can work with :Python,java,c
 
 <!---
 imranainmadar/imranainmadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
