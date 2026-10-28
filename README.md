@@ -3,7 +3,7 @@
                                                                       
 Hi there, I'm Imrana S. Inamdar! 👋✨
 
-    👩‍🏫 Passionate Engineering Educator empowering students to code, innovate, and build strong tech foundations! 🚀💻
+  👩‍🏫 Passionate Engineering Educator empowering students to code, innovate, and build strong tech foundations! 🚀💻
 
 🌟 About Me
 
